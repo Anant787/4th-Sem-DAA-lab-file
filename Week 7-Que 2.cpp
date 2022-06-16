@@ -46,7 +46,7 @@ void dijkstra(vector<vector<int>>graph, int src,int *dist,int *parent)
 }
 int main()
 {
-    cout<<"Ankita Rai    G     20012048"<<endl;
+    cout<<"Anant Gupta   G    20011921"<<endl;
     int n,source,wt;
     cin>>n;
     vector<vector<int>>graph(n,vector<int>(n));
